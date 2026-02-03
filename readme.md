@@ -31,7 +31,7 @@ Include the stylesheet in your HTML:
 ```html
 <link
   rel="stylesheet"
-  href="https://github.com/shadcss/shadcss/raw/main/shadcn.css"
+  href="ttps://github.com/shadcsss/shadcsss.github.io/raw/refs/heads/main/shadcss.csss"
 />
 ```
 
